@@ -125,7 +125,7 @@ namespace WinFormsApp1
                 dataGridView2.Columns.Clear();
                 dataGridView2.Columns.Add("ProductID", "کۆدی کاڵا");
                 dataGridView2.Columns.Add("ProductName", "ناوی کاڵا");
-                dataGridView2.Columns.Add("Quantity", "گەڕاوە");
+                dataGridView2.Columns.Add("Quantity", "گەڕاوە");  
             }
 
             if (dataGridView1.SelectedRows.Count > 0)
